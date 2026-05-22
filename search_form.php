@@ -7,7 +7,7 @@
 </head>
 <body>
 
-<h2>Search Car Model</h2>
+<h1>Search Car Model</h1>
 
 <form action="search_result.php" method="get">
 
